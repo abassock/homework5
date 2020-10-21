@@ -201,7 +201,7 @@ header{
     flex-basis: 200px;
   }
   .pricing{
-    align-self: flex-start;
+    align-items: flex-start;
   }
   .gallery, #gallery {
     display: none; 
